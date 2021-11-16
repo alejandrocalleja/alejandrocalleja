@@ -1,8 +1,7 @@
-### Hi there 👋
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact&theme=dark&count_private=true&hide_border=true"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&count_private=true&hide_border=true"></div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact" />
-</a>
+
 <!--
 **alejandrocalleja/alejandrocalleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
