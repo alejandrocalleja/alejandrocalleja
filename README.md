@@ -1,5 +1,13 @@
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact&theme=dark&count_private=true&hide_border=true&card_width=445&bg_color=22272E"></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=22272E"></div>
+
+<img src="img\header_image_coding.jpg"  style="height:200px;width:100%">
+
+**My GitHub Stats**
+
+<div align=center style="display:flex;flex-direction:row;justify-content:center;align-items:center">
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=22272E"></div>
+    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=22272E"></div>
+</div>
+
 
 
 <!--
@@ -15,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${alejandrocalleja}.${https://github.com/alejandrocalleja/alejandrocalleja.github.io.git})
+
 -->
