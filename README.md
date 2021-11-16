@@ -1,3 +1,6 @@
+### WELLCOME!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrocallejaherrador/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandrocalleja.github.io/)
 
 📈 **My GitHub Stats**
 
