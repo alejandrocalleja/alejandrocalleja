@@ -1,10 +1,11 @@
 
-**My GitHub Stats**
+📈 **My GitHub Stats**
 
-<div align=center style="display:flex;flex-direction:row;justify-content:center;align-items:center">
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=22272E"></div>
-    <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=22272E"></div>
-</div>
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=22272E">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocalleja&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=22272E&layout=compact&langs_count=8">
+</p>
+
 
 
 
