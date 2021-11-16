@@ -1,6 +1,4 @@
 
-<img src="img\header_image_coding.jpg"  style="height:200px;width:100%">
-
 **My GitHub Stats**
 
 <div align=center style="display:flex;flex-direction:row;justify-content:center;align-items:center">
