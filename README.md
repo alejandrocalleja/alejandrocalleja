@@ -62,5 +62,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrocalleja&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en&layout=compact&count_private=true" alt="alejandrocalleja" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en" alt="alejandrocalleja" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alejandrocalleja&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en" alt="alejandrocalleja" /></p>
 
