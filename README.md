@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **AEG Power Solutions**
 
-- 🌱 I’m currently learning **Full stack development and CI/CD**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [alejandrocalleja.github.io](alejandrocalleja.github.io)
 
