@@ -58,7 +58,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/alejandrocalleja)  
 
-![GitHub Activity Graph ](https://activity-graph.herokuapp.com/graph?username=alejandrocalleja&theme=react-dark&bg_color=22272e&hide_border=true)  
+<!-- ![GitHub Activity Graph ](https://activity-graph.herokuapp.com/graph?username=alejandrocalleja&theme=react-dark&bg_color=22272e&hide_border=true)  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrocalleja&show_icons=true&theme=dark&bg_color=22272e&hide_border=true&locale=en&layout=compact&count_private=true" alt="alejandrocalleja" /></p>
 
