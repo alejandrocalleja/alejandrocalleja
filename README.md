@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alejandro</h1>
 <h3 align="center">A passionate developer from the Basque Country</h3>
 
-- 🔭 I’m currently working in **AEG Power Solutions**
+- 🔭 I’m currently working at **Infineon Technologies AG**
 
 - 🌱 I’m currently learning **Data Analysis**
 
