@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Alejandro</h1>
 <h3 align="center">A passionate developer from the Basque Country</h3>
 
-- 🔭 I’m currently working at **Infineon Technologies AG**
-
-- 🌱 I’m currently learning **Data Analysis**
+- 🔭 I’m currently doing my Master's Degree in **Artificial Intelligence** at **Universidad Politécnica de Madrid**
 
 - 👨‍💻 All of my projects are available at [alejandrocalleja.github.io](alejandrocalleja.github.io)
 
