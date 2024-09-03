@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Alejandro</h1>
-<h3 align="center">Data scientist & AI developer from the Basque Country</h3>
-
-- 🔭 I’m currently working on **my M.Sc. thesis on Spatiotemporal Graph Neural Networks**
-
-- 🌱 I’m currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
